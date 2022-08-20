@@ -1,4 +1,4 @@
-favicon: https://cdn.wuyuan.dev/sitelogo.png
+favicon: https://cdn.wuyuan.dev/sitelogo.png #这里替换成网站logo地址
 
 # _config.yun.yml
 medium_zoom: true
@@ -29,24 +29,20 @@ social:
     link: /atom.xml # config.feed.path
     icon: ri:rss-line
     color: orange
-  - name: GitHub
-    link: https://github.com/sunwuyuan
-    icon: ri:github-line
-    color: "#181717"
   - name: E-Mail
     link: mailto:sun@wuyuan.dev
     icon: ri:mail-line
     color: "#8E71C1"
   - name: 微博
-    link: https://weibo.com/wuyuankeji
+    link: https://weibo.com/wuyuankeji #你的微博主页地址
     icon: ri:weibo-line
     color: "#E6162D"
   - name: 知乎
-    link: https://www.zhihu.com/people/sunwuyuan
+    link: https://www.zhihu.com/people/sunwuyuan #你的知乎主页地址
     icon: ri:zhihu-line
     color: "#0084FF"
   - name: 哔哩哔哩动画
-    link: https://space.bilibili.com/661404066
+    link: https://space.bilibili.com/661404066 #你的B站主页地址（数字换成uuid也可以）
     icon: ri:bilibili-line
     color: "#FF8EB3"
 
