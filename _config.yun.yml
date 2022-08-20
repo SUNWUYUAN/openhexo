@@ -143,3 +143,5 @@ wordcloud:
   enable: true
 
 
+skip_render: 
+  - file/**
