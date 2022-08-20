@@ -30,7 +30,7 @@ social:
     icon: ri:rss-line
     color: orange
   - name: E-Mail
-    link: mailto:sun@wuyuan.dev
+    link: mailto:sun@wuyuan.dev #你的邮箱
     icon: ri:mail-line
     color: "#8E71C1"
   - name: 微博
