@@ -1,4 +1,4 @@
-favicon: https://cdn.wuyuan.dev/sitelogo.png #这里替换成网站logo地址
+favicon: images\logo.png #这里替换成网站logo地址
 
 # _config.yun.yml
 medium_zoom: true
@@ -61,7 +61,7 @@ banner:
 
 avatar:
   enable: true
-  url: 请把这里修改为自己的头像链接
+  url: images\logo.png
   rounded: true
   opacity: 1
   mickey_mouse: false
@@ -141,7 +141,3 @@ pages:
 
 wordcloud:
   enable: true
-
-
-skip_render: 
-  - file/**
