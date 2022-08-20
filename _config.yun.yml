@@ -61,7 +61,7 @@ banner:
 
 avatar:
   enable: true
-  url: images\logo.png
+  url: \images\logo.png
   rounded: true
   opacity: 1
   mickey_mouse: false
