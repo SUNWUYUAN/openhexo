@@ -1,4 +1,4 @@
-favicon: images\logo.png #这里替换成网站logo地址
+favicon: file/logo.png #这里替换成网站logo地址
 
 # _config.yun.yml
 medium_zoom: true
@@ -61,7 +61,7 @@ banner:
 
 avatar:
   enable: true
-  url: \images\logo.png
+  url: file/logo.png
   rounded: true
   opacity: 1
   mickey_mouse: false
@@ -141,3 +141,6 @@ pages:
 
 wordcloud:
   enable: true
+
+skip_render: 
+  - file/**
